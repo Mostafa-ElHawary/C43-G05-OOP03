@@ -52,7 +52,7 @@
             #region Part2
 
             ICircle circle = new Circle(5);
-            circle.DisplayShapeInfo();  // Output: Circle with Radius: 5, Area: 78.53981633974483
+            circle.DisplayShapeInfo(); 
 
             IRectangle rectangle = new Rectangle(4, 6);
             rectangle.DisplayShapeInfo();
