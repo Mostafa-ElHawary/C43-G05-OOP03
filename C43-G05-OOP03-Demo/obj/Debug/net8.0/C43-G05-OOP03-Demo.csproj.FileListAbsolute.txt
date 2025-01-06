@@ -1,0 +1,14 @@
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\obj\Debug\net8.0\C43-G05-OOP03-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\obj\Debug\net8.0\C43-G05-OOP03-Demo.AssemblyInfoInputs.cache
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\obj\Debug\net8.0\C43-G05-OOP03-Demo.AssemblyInfo.cs
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\obj\Debug\net8.0\C43-G05-OOP03-Demo.csproj.CoreCompileInputs.cache
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\bin\Debug\net8.0\C43-G05-OOP03-Demo.exe
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\bin\Debug\net8.0\C43-G05-OOP03-Demo.deps.json
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\bin\Debug\net8.0\C43-G05-OOP03-Demo.runtimeconfig.json
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\bin\Debug\net8.0\C43-G05-OOP03-Demo.dll
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\bin\Debug\net8.0\C43-G05-OOP03-Demo.pdb
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\obj\Debug\net8.0\C43-G05-OOP03-Demo.dll
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\obj\Debug\net8.0\refint\C43-G05-OOP03-Demo.dll
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\obj\Debug\net8.0\C43-G05-OOP03-Demo.pdb
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\obj\Debug\net8.0\C43-G05-OOP03-Demo.genruntimeconfig.cache
+C:\Users\welcome\source\repos\C43-G05-OOP03\C43-G05-OOP03\obj\Debug\net8.0\ref\C43-G05-OOP03-Demo.dll
